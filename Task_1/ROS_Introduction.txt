@@ -1,0 +1,3 @@
+ROS stands for Robot Operating System. It is an open-source framework used in robotics to help developers build robot applications more easily.
+Despite its name, ROS is not a full operating system. It works as a middleware that allows different parts of a robot to communicate with each other.
+
