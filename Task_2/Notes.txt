@@ -1,0 +1,15 @@
+1. Finding Largest and Smallest Number
+
+I noticed that Python has built-in functions like max() and min() that can find the largest and smallest number easily
+I tried it both ways: once using the built-in functions, and once manually using loops and comparisons
+
+2.The program calculates the sum of all even numbers from 1 to the number the user thinks of.
+It uses a mathematical shortcut instead of looping through numbers, which is faster.
+
+3.I understood that Python has a built-in function complex() that takes user input and converts it into a complex number in the form x + yi.
+
+4.I understood the concept of if 
+
+5.I understood that we can create a sequence of numbers from 1 to n and print them as a single concatenated string.
+
+6.I understood that Python has a built-in function split() that separates a sentence into individual words.
