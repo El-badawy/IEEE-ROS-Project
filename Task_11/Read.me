@@ -1,0 +1,13 @@
+The system receives two separate incoming data streams for each robot:
+
+- Position data using `Pose2D`
+- Priority data using `Int32`
+
+To synchronize both streams, the latest received values are continuously stored inside a shared fleet dictionary. Each robot has its own entry containing:
+
+- Current pose
+- Current priority
+
+
+
+This approach ensures that the yielding logic always works using the most recent synchronized state of every robot in the fleet.
