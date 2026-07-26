@@ -1,0 +1,33 @@
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pablo/Desktop/diff_drive_robot/build/diff_drive_robot
+-- Install configuration: ""
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/launch
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/launch/robot.launch.py
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/urdf
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.gazebo
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.urdf.xacro
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/worlds
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/worlds/obstacles.world
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/config
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/config/gz_bridge.yaml
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/rviz
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/rviz/bot.rviz
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/diff_drive_robot
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/ament_index/resource_index/parent_prefix_path/diff_drive_robot
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.sh
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.dsv
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/environment/path.sh
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/environment/path.dsv
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/local_setup.bash
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/local_setup.sh
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/local_setup.zsh
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/local_setup.dsv
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/package.dsv
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/ament_index/resource_index/packages/diff_drive_robot
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig.cmake
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig-version.cmake
+-- Installing: /home/pablo/Desktop/diff_drive_robot/install/diff_drive_robot/share/diff_drive_robot/package.xml
