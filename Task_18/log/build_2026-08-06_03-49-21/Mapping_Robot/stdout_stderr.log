@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/Mapping_Robot/Mapping_Robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/Mapping_Robot/Mapping_Robot.egg-info/dependency_links.txt
+writing requirements to ../../build/Mapping_Robot/Mapping_Robot.egg-info/requires.txt
+writing top-level names to ../../build/Mapping_Robot/Mapping_Robot.egg-info/top_level.txt
+reading manifest file '../../build/Mapping_Robot/Mapping_Robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/Mapping_Robot/Mapping_Robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying config/mapper_params_online_async.yaml -> /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/Mapping_Robot/config
+running install_egg_info
+removing '/home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages/Mapping_Robot-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/Mapping_Robot/Mapping_Robot.egg-info to /home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages/Mapping_Robot-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/pablo/Desktop/NewFolder/build/Mapping_Robot/install.log'

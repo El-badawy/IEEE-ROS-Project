@@ -1,0 +1,20 @@
+[0.609s] Invoking command in '/home/pablo/Desktop/NewFolder/src/Mapping_Robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pablo/Desktop/NewFolder/build/Mapping_Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Mapping_Robot build --build-base /home/pablo/Desktop/NewFolder/build/Mapping_Robot/build install --record /home/pablo/Desktop/NewFolder/build/Mapping_Robot/install.log --install-scripts $base/lib/Mapping_Robot --single-version-externally-managed install_data
+[0.809s] running egg_info
+[0.820s] writing ../../build/Mapping_Robot/Mapping_Robot.egg-info/PKG-INFO
+[0.820s] writing dependency_links to ../../build/Mapping_Robot/Mapping_Robot.egg-info/dependency_links.txt
+[0.820s] writing requirements to ../../build/Mapping_Robot/Mapping_Robot.egg-info/requires.txt
+[0.820s] writing top-level names to ../../build/Mapping_Robot/Mapping_Robot.egg-info/top_level.txt
+[0.850s] reading manifest file '../../build/Mapping_Robot/Mapping_Robot.egg-info/SOURCES.txt'
+[0.851s] writing manifest file '../../build/Mapping_Robot/Mapping_Robot.egg-info/SOURCES.txt'
+[0.851s] running build
+[0.851s] running build_py
+[0.851s] running install
+[0.855s] running install_lib
+[0.871s] running install_data
+[0.871s] copying config/mapper_params_online_async.yaml -> /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/Mapping_Robot/config
+[0.871s] running install_egg_info
+[0.887s] removing '/home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages/Mapping_Robot-0.0.0-py3.12.egg-info' (and everything under it)
+[0.887s] Copying ../../build/Mapping_Robot/Mapping_Robot.egg-info to /home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages/Mapping_Robot-0.0.0-py3.12.egg-info
+[0.887s] running install_scripts
+[0.986s] writing list of installed files to '/home/pablo/Desktop/NewFolder/build/Mapping_Robot/install.log'
+[1.010s] Invoked command in '/home/pablo/Desktop/NewFolder/src/Mapping_Robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pablo/Desktop/NewFolder/build/Mapping_Robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Mapping_Robot build --build-base /home/pablo/Desktop/NewFolder/build/Mapping_Robot/build install --record /home/pablo/Desktop/NewFolder/build/Mapping_Robot/install.log --install-scripts $base/lib/Mapping_Robot --single-version-externally-managed install_data

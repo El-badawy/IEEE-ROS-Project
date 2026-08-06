@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating Mapping_Robot.egg-info
+writing Mapping_Robot.egg-info/PKG-INFO
+writing dependency_links to Mapping_Robot.egg-info/dependency_links.txt
+writing requirements to Mapping_Robot.egg-info/requires.txt
+writing top-level names to Mapping_Robot.egg-info/top_level.txt
+writing manifest file 'Mapping_Robot.egg-info/SOURCES.txt'
+reading manifest file 'Mapping_Robot.egg-info/SOURCES.txt'
+writing manifest file 'Mapping_Robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pablo/Desktop/NewFolder/install/Mapping_Robot/lib/python3.12/site-packages/Mapping-Robot.egg-link (link to .)
+
+Installed /home/pablo/Desktop/NewFolder/build/Mapping_Robot
+running symlink_data
+creating /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/ament_index
+creating /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/ament_index/resource_index
+creating /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/ament_index/resource_index/packages
+symbolically linking /home/pablo/Desktop/NewFolder/build/Mapping_Robot/resource/Mapping_Robot -> /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/ament_index/resource_index/packages
+symbolically linking /home/pablo/Desktop/NewFolder/build/Mapping_Robot/package.xml -> /home/pablo/Desktop/NewFolder/install/Mapping_Robot/share/Mapping_Robot
